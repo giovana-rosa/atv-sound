@@ -1,0 +1,30 @@
+/*================
+    CSS RESET
+=================*/
+
+* {
+    padding: 0;
+    margin: 0;
+    vertical-align:baseline;
+    list-style: none;
+    border: 0;
+}
+
+/*====================
+    FORMATAÇÃO GERAL
+====================*/
+
+body header .banner  {
+    font-size:
+    color: #121212;
+    display: flex;
+    justify-content: spece between;
+}
+
+body header .banner div span img {
+    border-radius: 35px;
+}
+
+html {
+    margin: 0vw 20vw 0vw 20vw;
+}
